@@ -1,4 +1,4 @@
-Digit Classification App
+## Digit Classification App
 This Digit Classification App uses a trained machine learning model to predict digits from uploaded images.
 
 ## Features
